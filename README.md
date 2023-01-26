@@ -1,4 +1,4 @@
-# HABIT'S - VERSÃO MOBILE
+# HABIT'S - VERSÃO WEB
 
 ![telainicial](https://user-images.githubusercontent.com/103333385/214583071-7590b736-2f04-4164-bad7-00c597c6c436.gif)
 
@@ -17,7 +17,10 @@
 
 ![tela2](https://user-images.githubusercontent.com/103333385/214583506-d4580a35-646a-44d0-8fb9-f18f007757c6.gif)
 
-  
+
+# HABIT'S - VERSÃO WEB
+
+
 
 ## O app foi criado como desafio da semana NWL 2023, idealizada pela RocketSeat.
 
