@@ -1,4 +1,4 @@
-# HABIT'S
+# HABIT'S - VERSÃO MOBILE
 
 ![telainicial](https://user-images.githubusercontent.com/103333385/214583071-7590b736-2f04-4164-bad7-00c597c6c436.gif)
 
@@ -30,23 +30,23 @@
 
   
 
-## **Banco de dados e Backend:**
+## - **Banco de dados e Backend:**
 
   
 
-##NodeJS | Fastify | Prisma | TypeScript
+## - NodeJS | Fastify | Prisma | TypeScript
 
   
 
-## **Frontend:**
+## - **Frontend:**
 
   
 
-## ViteJs | ReactJs |TypeScript | Tailwindcss | Radix
+## - ViteJs | ReactJs |TypeScript | Tailwindcss | Radix
 
   
 
-## **Mobile:**
+## - **Mobile:**
 
   
 
