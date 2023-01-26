@@ -34,7 +34,7 @@
 
   
 
-## - NodeJS | Fastify | Prisma | TypeScript
+### - NodeJS | Fastify | Prisma | TypeScript
 
   
 
@@ -42,11 +42,11 @@
 
   
 
-## - ViteJs | ReactJs |TypeScript | Tailwindcss | Radix
+### - ViteJs | ReactJs |TypeScript | Tailwindcss | Radix
 
   
 
-## - **Mobile:**
+### - **Mobile:**
 
   
 
